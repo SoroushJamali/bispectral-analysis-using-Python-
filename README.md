@@ -124,7 +124,8 @@ Middle fig: bicoherence absolute value of the signal
 
 And in the right fig: you can see the histogram of the bicoherence phase.
 
-![](1.png)
+
+![](https://github.com/enzojam/Project-course-L12/blob/main/im/1.png)
 
 Three type of non-liniarty transformation apllyed on the simpyle sinosied signal plus a white noise (you can find more detailes in report)
 
