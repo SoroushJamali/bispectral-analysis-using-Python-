@@ -125,10 +125,12 @@ Three type of non-liniarty transformation apllyed on the simpyle sinosied signal
 
 These three different version of non-linearty were tested and the value of the variance, standard deviation, skewness, and kurtosis values are calculated both for Bis magnitude and phase where calculated. The results were illustrated in 2D as following:
 
-![](https://github.com/enzojam/Project-course-L12/blob/main/im/6.PNG) 
+![](https://github.com/enzojam/Project-course-L12/blob/main/im/3.PNG) 
+
+![](https://github.com/enzojam/Project-course-L12/blob/main/im/6.png) 
 ![](https://github.com/enzojam/Project-course-L12/blob/main/im/2.png)
 
-![](https://github.com/enzojam/Project-course-L12/blob/main/im/3.PNG) 
+
 ![](https://github.com/enzojam/Project-course-L12/blob/main/im/4.png)
 ![](https://github.com/enzojam/Project-course-L12/blob/main/im/5.PNG) 
 
