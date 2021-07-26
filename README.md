@@ -3,7 +3,7 @@
 
 In this projcet I tried to implemt BISPECTRAL using Python code in Colab.
 
-find the final version of the code here: (https://github.com/enzojam/Project-course-L12)
+find the final version of the code here: (https://github.com/enzojam/Project-course-L12) or (https://colab.research.google.com/drive/1C1avva0wjZm9yoN2JP9iaREvfp5T7u97?usp=sharing)
 
 The implementation of the code is based on previous approaches mentioned in the report.
 
