@@ -139,6 +139,7 @@ These three different version of non-linearty were tested and the value of the v
 | skewness | Bic magnitude | Bic phase |
 | kurtosis | Bic magnitude | Bic phase |
 
-![](2.png)
+![](https://github.com/enzojam/Project-course-L12/blob/main/im/2.png)
 
-![](3.png) ![](4.png)
+![](https://github.com/enzojam/Project-course-L12/blob/main/im/3.png) 
+![](https://github.com/enzojam/Project-course-L12/blob/main/im/4.png)
