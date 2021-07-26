@@ -124,7 +124,7 @@ Middle fig: bicoherence absolute value of the signal
 
 And in the right fig: you can see the histogram of the bicoherence phase.
 
-![](RackMultipart20210726-4-1hggve8_html_a7698a29f61bd835.png)
+![](1.png)
 
 Three type of non-liniarty transformation apllyed on the simpyle sinosied signal plus a white noise (you can find more detailes in report)
 
@@ -138,6 +138,6 @@ These three different version of non-linearty were tested and the value of the v
 | skewness | Bic magnitude | Bic phase |
 | kurtosis | Bic magnitude | Bic phase |
 
-![](RackMultipart20210726-4-1hggve8_html_6a5210c55cad4c6d.png)
+![](2.png)
 
-![](RackMultipart20210726-4-1hggve8_html_8e4d7e79d5338dcc.png) ![](RackMultipart20210726-4-1hggve8_html_6282844cca09d2f4.png)
+![](3.png) ![](4.png)
