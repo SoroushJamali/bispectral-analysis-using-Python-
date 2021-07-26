@@ -42,13 +42,7 @@ Complex conjugate of signal Ys is shifted with &quot;Hankel&quot; function in or
 
 And in 9 you can see the implementation of below formula
 
-\begin{equation}
-
-\label{eqn:bis}
-
-B\left(\omega\_1,\omega\_2\right)=Y\left(\omega\_1\right)Y\left(\omega\_2\right)Y^\ast\left({\omega\_1+\omega}\_2\right)
-
-\end{equation}
+![](https://github.com/enzojam/Project-course-L12/blob/main/im/8.PNG)
 
 1. bicc     = bic / nrecs
 2. angles=(sum(np.angle(bicc)))
@@ -60,7 +54,7 @@ B\left(\omega\_1,\omega\_2\right)=Y\left(\omega\_1\right)Y\left(\omega\_2\right)
 
 in line 1 :
 
-Bicc is the avvrage value of Bic
+Bicc is the average value of Bic
 
 In line 2:
 
